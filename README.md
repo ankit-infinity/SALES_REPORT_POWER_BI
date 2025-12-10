@@ -2,6 +2,8 @@
 
 # OVERVIEW;
 
+![alt text](https://github.com/ankit-infinity/SALES_REPORT_POWER_BI/blob/main/images/overview.png)
+
 This project entails developing a comprehensive sales analysis system for 'ELECTROHUB',a multiregion retail company .
 The core purpose is to leverage existing sales data to generate actionable insights,enabling management to monitor performance across all stores and regions effectively
 .The project will focuse on identifying key performance indicators(KPIs)such as top and bottom selling products,region sales,sales trend,revenue drivers. 

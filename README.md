@@ -105,11 +105,12 @@ that could be filtered using visuals filter(prOduct/date/customer id/promotion c
 
 # INSIGHTS:
 
-![alt text](https://github.com/ankit-infinity/SALES_REPORT_POWER_BI/blob/main/images/top_bottom 5 analysis.png)
+![alt text](https://github.com/ankit-infinity/SALES_REPORT_POWER_BI/blob/main/images/top_bottom%205%20analysis.png)
 
 TOP 5 PRODUCT BY:
  
 SALES:
+
 1.APPLE IPHONE 14
 2.APPLE MACBOOK AIR
 3.SONI BRAVIA SS*TV
@@ -117,6 +118,7 @@ SALES:
 5.HP PAVILLION LAPTOP
 
 QUANTITY:
+
 1.APPLE IPHONE 14
 2.RAYMOND SUIT
 3.FOSSIL SMARTWATCH
@@ -124,6 +126,7 @@ QUANTITY:
 5.IFB MICROWAVE OVEN
 
 PROFIT:
+
 1.APPLE IPHONE 14
 2.APPLE MACBOOK AIR
 3.SONI BRAVIA SS*TV
@@ -133,6 +136,7 @@ PROFIT:
 BOTTOM 5 PRODUCT:
 
 SALES:
+
 1.TOPPERWARE LUNCH BOX
 2.LOREAL SHAMPOO
 3.NIVEA BODY LOTION
@@ -140,6 +144,7 @@ SALES:
 5.COLGATE TOOTHPASTE
 
 QUANTITY;
+
 1.NIVEA BODY LOTION
 2.TOPPERWARE LUNCH BOX
 3.MILTON THERMAL FLASK
@@ -147,6 +152,7 @@ QUANTITY;
 5.BOROSSIL GLASS SET
 
 PROFIT:
+
 1.TOPPERWARE LUNCH BOX
 2.LOREAL SHAMPOO
 3.NIVEA BODY LOTION
@@ -155,7 +161,7 @@ PROFIT:
 
 Compare sales/profit/quantity sold between any two period.
 
-![alt text](https://github.com/ankit-infinity/SALES_REPORT_POWER_BI/blob/main/images/sales over two period.png)
+![alt text](https://github.com/ankit-infinity/SALES_REPORT_POWER_BI/blob/main/images/sales%20over%20two%20period.png)
 
 by applying filter context
 

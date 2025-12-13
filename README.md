@@ -86,10 +86,10 @@ This dataset consists of four table one fact table and three dimension table
 
 6.total no of orders
 
-7.Sho sales by different cities
+7.ShoW sales by different cities
 
 8.show sales/profit/discount/net sales/all remaining fields for each order
-that could be filtered using visuals filter(prduct/date/customer id/promotion category)
+that could be filtered using visuals filter(prOduct/date/customer id/promotion category)
 
 # METHODOLOGY USED:
 
@@ -104,4 +104,78 @@ that could be filtered using visuals filter(prduct/date/customer id/promotion ca
 5.DATA VISUALIZATION USING CHARTS
 
 # INSIGHTS:
+
+![alt text](https://github.com/ankit-infinity/SALES_REPORT_POWER_BI/blob/main/images/top_bottom 5 analysis.png)
+
+TOP 5 PRODUCT BY:
+ 
+SALES:
+1.APPLE IPHONE 14
+2.APPLE MACBOOK AIR
+3.SONI BRAVIA SS*TV
+4.SAMSUNG GALAXY S21
+5.HP PAVILLION LAPTOP
+
+QUANTITY:
+1.APPLE IPHONE 14
+2.RAYMOND SUIT
+3.FOSSIL SMARTWATCH
+4.ZARA CASUAL SHIRT
+5.IFB MICROWAVE OVEN
+
+PROFIT:
+1.APPLE IPHONE 14
+2.APPLE MACBOOK AIR
+3.SONI BRAVIA SS*TV
+4.SAMSUNG GALAXY S21
+5.HP PAVILLION LAPTOP
+
+BOTTOM 5 PRODUCT:
+
+SALES:
+1.TOPPERWARE LUNCH BOX
+2.LOREAL SHAMPOO
+3.NIVEA BODY LOTION
+4.DOVE SOAP PACK
+5.COLGATE TOOTHPASTE
+
+QUANTITY;
+1.NIVEA BODY LOTION
+2.TOPPERWARE LUNCH BOX
+3.MILTON THERMAL FLASK
+4.FABINDIA KURTA
+5.BOROSSIL GLASS SET
+
+PROFIT:
+1.TOPPERWARE LUNCH BOX
+2.LOREAL SHAMPOO
+3.NIVEA BODY LOTION
+4.DOVE SOAP PACK
+5.COLGATE TOOTHPASTE
+
+Compare sales/profit/quantity sold between any two period.
+
+![alt text](https://github.com/ankit-infinity/SALES_REPORT_POWER_BI/blob/main/images/sales over two period.png)
+
+by applying filter context
+
+![alt text](https://github.com/ankit-infinity/SALES_REPORT_POWER_BI/blob/main/images/filter.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

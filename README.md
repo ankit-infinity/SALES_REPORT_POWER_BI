@@ -8,7 +8,7 @@ This project entails developing a comprehensive sales analysis system for 'ELECT
 The core purpose is to leverage existing sales data to generate actionable insights,enabling management to monitor performance across all stores and regions effectively
 .The project will focuse on identifying key performance indicators(KPIs)such as top and bottom selling products,region sales,sales trend,revenue drivers. 
 The project outcome will be a suite of dynamic,visuals reports design to support data driven decision making ,optimize inventory management and enhance 
-overall buisness stratergy.
+overall business stratergy.
 
 # DATASETS:
 
@@ -105,59 +105,34 @@ that could be filtered using visuals filter(prOduct/date/customer id/promotion c
 
 # INSIGHTS:
 
+1.ORDERS: Total of 3510 orders, indicating steady demand.
+
+2.GEOGRAPHY: Sales are concentrated in major Indian cities like Delhi,Mumbai,Bengaluru,chennai and kolkata
+
+3.PROMOTIONS: Weekend flash sales drives the highestdiscounts and engagement.
+
+clearance sale is the second most impactful.
+
+festivediwali shows minimal discount impact.
+
+4.profit vs sales: strong positive correlation higher profit directly indicate higher net sales.
+
+5.Trend over time: sales show consistent growth with spikes peaking around 2023,indicating impured performance overtime.
+        
+
 ![alt text](https://github.com/ankit-infinity/SALES_REPORT_POWER_BI/blob/main/images/top_bottom%205%20analysis.png)
 
-TOP 5 PRODUCT BY:
- 
-SALES:
+1.Apple i phone 14 is the top performer leading in sales ,quantity and profit.apple product dominate the ttop position indicating
+  strong brand demand.
+  
+2.Electronics contribute the highest revenue and profit overall,
 
-1.APPLE IPHONE 14
-2.APPLE MACBOOK AIR
-3.SONI BRAVIA SS*TV
-4.SAMSUNG GALAXY S21
-5.HP PAVILLION LAPTOP
+3.low priced FMCG items (tupperware lunch box, loreal shampoo, colgate toothpaste)appear in the bootom of the sales and profit.despite moderate quantities
 
-QUANTITY:
+4. high quality doest not always mean high profit as seen in some bottom profit products.
 
-1.APPLE IPHONE 14
-2.RAYMOND SUIT
-3.FOSSIL SMARTWATCH
-4.ZARA CASUAL SHIRT
-5.IFB MICROWAVE OVEN
+conclusion: promote high profit products and re evaluate low margin items.
 
-PROFIT:
-
-1.APPLE IPHONE 14
-2.APPLE MACBOOK AIR
-3.SONI BRAVIA SS*TV
-4.SAMSUNG GALAXY S21
-5.HP PAVILLION LAPTOP
-
-BOTTOM 5 PRODUCT:
-
-SALES:
-
-1.TOPPERWARE LUNCH BOX
-2.LOREAL SHAMPOO
-3.NIVEA BODY LOTION
-4.DOVE SOAP PACK
-5.COLGATE TOOTHPASTE
-
-QUANTITY;
-
-1.NIVEA BODY LOTION
-2.TOPPERWARE LUNCH BOX
-3.MILTON THERMAL FLASK
-4.FABINDIA KURTA
-5.BOROSSIL GLASS SET
-
-PROFIT:
-
-1.TOPPERWARE LUNCH BOX
-2.LOREAL SHAMPOO
-3.NIVEA BODY LOTION
-4.DOVE SOAP PACK
-5.COLGATE TOOTHPASTE
 
 Compare sales/profit/quantity sold between any two period.
 
@@ -167,10 +142,38 @@ by applying filter context
 
 ![alt text](https://github.com/ankit-infinity/SALES_REPORT_POWER_BI/blob/main/images/filter.png)
 
+# RECOMMENDATION:
 
+1.Focus on high performing cities:
 
+strengthen inventory and marketing efforts in top selling cities to maximize returns from existing demand.
 
+2.optimize promotions:
 
+Continue and expand WEEKEND FLASH SALES AND CLEAREANCE SALES,as they generate the highest impact.rework
+or redesign low performing promotion like FESTIVE DIWALI.
+
+3.profit driven stratergy;
+
+since higher profit aligns with higher net sales,prioritize profitable categories and avoid excessive discounting
+
+4.sales planning;
+
+use historical sales spikes to plan stock in advance , especially during peak periods.
+
+5.store level optimization:
+
+compare store performance regularly and apply best practices from high performing stores across the electro hub network.
+
+6.focus on high performing products like apple ,mackbook and premium electronics ensuring adequate stock across all stores
+
+7.replicate sale stratergies of top performing stores /products in other location to maximise revenue
+
+8. review low performing products and consider discounts ,bundles,or replacement with better demand items.
+
+9.reduce shelf space for consistently under performing items.
+
+10.use store level insights to optimise inventory palnning and avoid overstock low margin products
 
 
 

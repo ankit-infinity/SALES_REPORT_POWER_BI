@@ -103,6 +103,15 @@ that could be filtered using visuals filter(prOduct/date/customer id/promotion c
 
 5.DATA VISUALIZATION USING CHARTS
 
+6.DAX FUNCTIONS LIKE:CALENDARAUTOFUNCTION TO CREATE DATE TABLE 
+
+SUM OF NET SALES= CALCULATE(SUM('FACT TABLE'[NET SALES]),ALL('date table 1'),USERREALTIONSHIPS('date table 2'[date],'fact table'[date(dd/mm/yyyy)])).
+
+Total profit = CALCULATE(SUM('FACT TABLE'[profit]),ALL('date table 1'),USERREALTIONSHIPS('date table 2'[date],'fact table'[date (dd/mm/yyyy)])).
+
+quantity sold = CALCULATE(SUM('fact table'[Units Sold]),ALL('date table 1'),USERELATIONSHIP('date table 2'[Date],'fact table'[Date (dd/mm/yyyy)]))
+
+
 # INSIGHTS:
 
 1.ORDERS: Total of 3510 orders, indicating steady demand.
@@ -113,7 +122,7 @@ that could be filtered using visuals filter(prOduct/date/customer id/promotion c
 
 clearance sale is the second most impactful.
 
-festivediwali shows minimal discount impact.
+festive diwali shows minimal discount impact.
 
 4.profit vs sales: strong positive correlation higher profit directly indicate higher net sales.
 

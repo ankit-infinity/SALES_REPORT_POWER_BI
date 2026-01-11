@@ -1,5 +1,11 @@
 # SALES_REPORT_POWER_BI
 
+
+# REPORT LINK : 
+
+![alt text](https://app.powerbi.com/links/LLMu3288DO?ctid=aa83b4a7-28d2-45a8-b2ce-208211922a81&pbi_source=linkShare)
+
+
 # OVERVIEW;
 
 ![alt text](https://github.com/ankit-infinity/SALES_REPORT_POWER_BI/blob/main/images/overview.png)

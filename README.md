@@ -3,8 +3,7 @@
 
 # REPORT LINK : 
 
-https://app.powerbi.com/links/LLMu3288DO?ctid=aa83b4a7-28d2-45a8-b2ce-208211922a81&pbi_source=linkShare
-https://app.powerbi.com/view?r=eyJrIjoiZjAwZjZjYjUtZWViMC00ODNlLThlNjQtNWY0OTc2YzY0OTllIiwidCI6ImFhODNiNGE3LTI4ZDItNDVhOC1iMmNlLTIwODIxMTkyMmE4MSJ9
+https://app.powerbi.com/view?r=eyJrIjoiZjAwZjZjYjUtZWViMC00ODNlLThlNjQtNWY0OTc2YzY0OTllIiwidCI6ImFhODNiNGE3LTI4ZDItNDVhOC1iMmNlLTIwODIxMTkyMmE4MSJ9w
 
 # OVERVIEW;
 
